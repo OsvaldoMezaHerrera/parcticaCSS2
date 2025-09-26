@@ -7,3 +7,11 @@ h1{
     border: 3px solid red;
     background-color: lightblue;
 }
+
+.box-2{
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    /* por defecto */
+    position: static; 
+}
