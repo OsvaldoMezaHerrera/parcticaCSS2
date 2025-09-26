@@ -15,3 +15,12 @@ h1{
     /* por defecto */
     position: static; 
 }
+.box-3{
+    width: 100px;
+    height: 100px;
+    background-color: peru;
+    /* por defecto */
+    position: relative;
+    top: 20px;
+    left: 30px; 
+}
